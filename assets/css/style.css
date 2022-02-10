@@ -1,0 +1,52 @@
+.woburn-logo{
+    height: 80px;
+    padding: 3px;
+}
+.nav-ul{
+    color: #F0F8FF;
+}
+.hero-image{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.img-div{
+    position: relative;
+    text-align: center;
+
+}
+.hero-text{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 250%;
+}
+.hero-text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 130%;
+}
+.hero-input{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    width: 40%;
+    transform: translate(-50%, -50%);
+}
+.hero-search .button{
+  position: absolute;
+  top: 70%;
+  left: 70.5%;
+  transform: translate(-50%, -50%);
+  background-color: #0076ba;
+  color: white;
+  font-size: 14px;
+  padding: 8.5px 72px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
