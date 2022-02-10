@@ -50,3 +50,50 @@
   cursor: pointer;
   border-radius: 5px;
 }
+.career-heading{
+    margin-top: 70px;
+}
+/* .cat-image-1{
+    height: 294px;
+    width: 457px;
+    object-fit: cover;
+    opacity: .8;    
+    margin-left: 300px;
+    margin-top: 50px;
+    
+    
+}*/
+
+.cat-image-2{
+    height: 294px;
+    width: 457px;
+    background-image: url(/front-end-practice/assets/images/category-image-2.jpg);
+    background-size: cover;
+    background-position-x: center;
+    box-shadow: 0 3000px rgba(173,216,230, .9) inset;
+    
+}
+.cat-image-1{
+    height: 294px;
+    width: 457px;
+    background-image: url(/front-end-practice/assets/images/category-image-1.jpg);
+    background-size: cover;
+    background-position-x: center;
+    box-shadow: 0 3000px rgba(173,216,230, .9) inset;
+    
+}
+/* div.tint1{
+    background-color: aqua;
+    height: 294px;
+    width: 457px;
+    margin-left: 300px;
+    margin-top: 50px;
+    opacity: .8;
+}
+div.tint2{
+    background-color: aqua;
+    height: 294px;
+    width: 457px;
+    margin-left: 600px;
+    opacity: .8;
+} */
