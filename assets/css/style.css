@@ -57,17 +57,6 @@
     margin-top: 70px;
     
 }
-/* .cat-image-1{
-    height: 294px;
-    width: 457px;
-    object-fit: cover;
-    opacity: .8;    
-    margin-left: 300px;
-    margin-top: 50px;
-    
-    
-}*/
-
 .cat-image-2{
     height: 294px;
     width: 457px;
@@ -125,6 +114,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 160%;
+    
 }
 .font-awesome3{
     position: absolute;
@@ -140,18 +130,64 @@
     transform: translate(-50%, -50%);
     font-size: 160%;
 }
-/* div.tint1{
-    background-color: aqua;
-    height: 294px;
-    width: 457px;
-    margin-left: 300px;
-    margin-top: 50px;
-    opacity: .8;
+.featured-header{
+    margin-top: 150px;
 }
-div.tint2{
-    background-color: aqua;
-    height: 294px;
-    width: 457px;
-    margin-left: 600px;
-    opacity: .8;
-} */
+.featured-line{
+   margin: auto;
+   margin-top: 20px;
+   color: #0076ba;
+   opacity: 1;
+} 
+.star{
+    color: gold;
+}
+.featured-section{
+    justify-content: center;
+    padding-top: 50px;
+    width: 90%;
+    margin-left: 95px;
+}
+.clerk-card{
+    -moz-box-shadow: 0 0 15px #ccc;
+    -webkit-box-shadow: 0 0 15px #ccc;
+    box-shadow: 0 0 15px #ccc;
+    z-index: 10;
+}
+.care-card{
+   -moz-box-shadow: 0 0 15px #ccc;
+    -webkit-box-shadow: 0 0 15px #ccc;
+    box-shadow: 0 0 15px #ccc;
+    z-index: 10;
+}
+.practice-card{
+    -moz-box-shadow: 0 0 15px #ccc;
+    -webkit-box-shadow: 0 0 15px #ccc;
+    box-shadow: 0 0 15px #ccc;
+    z-index: 10;
+}
+.gray-div{
+    height: 150px;
+    background-color: 	#909090;
+    opacity: .18;
+    z-index: .1;
+    position: absolute;
+    top: 147%;
+    left: 15%;
+}
+.featured-jobs-div{
+    margin-top: 50px;
+    width: 88%;
+}
+.card-shadow{
+    -moz-box-shadow: 0 0 15px #ccc;
+    -webkit-box-shadow: 0 0 15px #ccc;
+    box-shadow: 0 0 15px #ccc;
+    
+}
+.explore-section{
+    margin-top: 120px;
+}
+.explore-heading{
+    padding-top: 40px;
+}
