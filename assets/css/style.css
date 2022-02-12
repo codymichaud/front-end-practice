@@ -191,3 +191,143 @@
 .explore-heading{
     padding-top: 40px;
 }
+.img-div-explore{
+    margin: auto;
+}
+.explore-img-1{
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    z-index: 5;
+}
+
+.explore-img-2{
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    z-index: 5;
+}
+.explore-img-3{
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    z-index: 5;
+}
+.explore-img-4{
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    z-index: 5;
+}
+.explore-img-5{
+    margin: auto;
+    margin-top: 50px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    z-index: 5;
+}
+.gray-explore-1{
+    height: 250px;
+    width: 24.8%;
+    background-color: 	#FFFF;
+    opacity: .8;
+    z-index: 10;
+    position: absolute;
+    top: 201.9%;
+    left: 24.5%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.gray-explore-2{
+    height: 250.8px;
+    width: 24.8%;
+    background-color: 	#FFFF;
+    opacity: .7;
+    z-index: 10;
+    position: absolute;
+    top: 233.9%;
+    left: 50.74%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.gray-explore-3{
+    height: 250.8px;
+    width: 24.8%;
+    background-color: 	#FFFF;
+    opacity: .7;
+    z-index: 10;
+    position: absolute;
+    top: 265.9%;
+    left: 24.5%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.gray-explore-4{
+    height: 250.8px;
+    width: 24.8%;
+    background-color: 	#FFFF;
+    opacity: .7;
+    z-index: 10;
+    position: absolute;
+    top: 297.9%;
+    left: 50.74%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.gray-explore-5{
+    height: 250.8px;
+    width: 24.8%;
+    background-color: 	#FFFF;
+    opacity: .7;
+    z-index: 10;
+    position: absolute;
+    top: 329.9%;
+    left: 24.5%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+#oakland{
+    padding-left: 18px;
+    padding-top: 40px;
+}
+#oakland-para{
+    font-size: 90%;
+    font-weight: 500;
+    padding-left: 18px;
+    padding-top: 10px;
+}
+#woburn{
+    padding-left: 18px;
+    padding-top: 40px;
+}
+#woburn-para{
+    font-size: 90%;
+    font-weight: 500;
+    padding-left: 18px;
+    padding-top: 10px;
+}
+#hayward{
+    padding-left: 18px;
+    padding-top: 40px;
+}
+#hayward-para{
+    font-size: 90%;
+    font-weight: 500;
+    padding-left: 18px;
+    padding-top: 10px;
+}
