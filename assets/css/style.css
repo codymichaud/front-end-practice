@@ -505,3 +505,273 @@ footer{
     width: 25px;
     padding-top: 6px;
 }
+.featured-jobs{
+    text-decoration: none;
+}
+.working-header-2{
+    position: absolute;
+    left: 2.9%;
+    top: 12%;
+    font-size: 215%;
+}
+.quick-info{
+    position: absolute;
+    top: 18%;
+    left: 2.9%;
+    
+}
+.req-number{
+    position: absolute;
+    top: 39.9%;
+    left: 18%;
+}
+.posted-date{
+    position: absolute;
+    top: 47.7%;
+    left: 20%;
+}
+.summary{
+    position: absolute;
+    margin-top: 30px;
+    font-size: 160%;
+}
+.opportunity{
+    
+    margin-top: 90px;
+
+}
+.margin-bottom{
+    margin-bottom: -1px;
+}
+#working-para-2{
+    position: absolute;
+    width: 70%;
+    text-align: left;
+    left: 2.9%;
+    top: 48%;
+    font-size: 150%;
+}
+#working-para-3{
+position: absolute;
+    width: 70%;
+    text-align: left;
+    left: 2.9%;
+    top: 58.7%;
+    font-size: 150%;
+}
+#working-para-4{
+    position: absolute;
+    width: 70%;
+    text-align: left;
+    left: 2.9%;
+    top: 64%;
+    font-size: 150%;
+}
+#working-para-5{
+    position: absolute;
+    width: 70%;
+    text-align: left;
+    left: 2.9%;
+    top: 69%;
+    font-size: 150%;
+}
+#working-para-6{
+    position: absolute;
+    width: 73%;
+    text-align: left;
+    left: 2.9%;
+    top: 74%;
+    font-size: 150%;
+}
+#working-para-7{
+    position: absolute;
+    width: 70%;
+    text-align: left;
+    left: 2.9%;
+    top: 83%;
+    font-size: 150%;
+}
+.related-jobs{
+    font-size: 140%;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.line{
+    margin-top: -1px;
+}
+.learn-link-2{
+    text-decoration: none;
+    padding-left: 11px;
+    margin-top: -5px;
+}
+#perks-div-2{
+    position: absolute;
+    left: 79.2%;
+    top: 13%;
+    width: 19%;
+    border: none;
+}
+.border-cust{
+    border: 2px 0px 2px 0px;
+}
+.general-surgeon{
+    padding-left: 11px;
+    padding-top: 11px;
+    font-size: 125%;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+.benefits-para-2{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: -10px;
+}
+.benefits-para-3{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: 3px;
+}
+.benefits-para-4{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: 3px;
+}
+.benefits-para-5{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: 3px;
+}
+.benefits-para-6{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: 3px;
+}
+.benefits-header-3{
+padding-left: 11px;
+padding-top: 11px;
+font-size: 125%;
+text-decoration: none;
+font-weight: 400;
+}
+.benefits-header-4{
+padding-left: 11px;
+padding-top: 11px;
+font-size: 125%;
+text-decoration: none;
+font-weight: 400;
+}
+.benefits-header-5{
+padding-left: 11px;
+padding-top: 11px;
+font-size: 125%;
+text-decoration: none;
+font-weight: 400;
+}
+.benefits-header-6{
+padding-left: 11px;
+padding-top: 11px;
+font-size: 125%;
+text-decoration: none;
+font-weight: 400;
+}
+.benefits-para-2{
+    width: 71%;
+    padding-left: 11px;
+    margin-top: -10px;
+}
+.footer-darkBlue{
+     position: absolute;
+     top: 130.9%;
+     width: 100%;
+     background-color: #052c49;
+     height: 75px;
+}
+#blue-footer-div-2{
+    position: absolute;
+     top: 125.9%;
+     width: 100%;
+     height: 130px;
+     background-color: #0076ba;
+}   
+.follow-us-2{
+    font-size: 150%;
+    position: absolute;
+    top: 20%;
+    left: 78%;
+}   
+.social-buttons-2{
+    position: absolute;
+    top: 55%;
+    left: 78%;
+}  
+.circle-2{
+    height: 40px;
+  width: 40px;
+  background-color: #F5F5F5;
+  border-radius: 50%;
+  display: inline-block;
+}
+.facebook-2{
+    color: #052c49;
+    height: 25px;
+    width: 25px;
+    padding-top: 6px;
+}
+.twitter-2{
+    color: #052c49;
+    height: 25px;
+    width: 25px;
+    padding-top: 6px;
+}
+.youtube-2{
+    color: #052c49;
+    height: 25px;
+    width: 25px;
+    padding-top: 6px;
+}
+.linkedin-2{
+    color: #052c49;
+    height: 25px;
+    width: 25px;
+    padding-top: 6px;
+}
+.bgGray{
+    background-color: #E8E8E8;
+    
+}
+.not-right-fit{
+    margin-top: 15px;
+    font-size: 130%;
+    font-weight: 400;
+}
+.join-network{
+    margin-top: -12px;
+}
+.button-div .join-button{
+    background-color: #052c49;
+}
+.join-button{
+    margin-left: -11px;
+    margin-bottom: 20px;
+}
+.button-div .apply-now{
+    background-color: #0076ba;
+}
+.apply-now{
+    position: absolute;
+    top: 18.8%;
+    left: 60%;
+    width: 12%;
+    height: 5%;    
+}
+.button-div .save-job{
+    background-color: #E8E8E8;
+}
+.save-job{
+    position: absolute;
+    top: 23.8%;
+    left: 60%;
+    width: 12%;
+    height: 5%; 
+}
