@@ -1,3 +1,6 @@
+.nav-width{
+    width: 100%;
+}
 .woburn-logo{
     height: 80px;
     padding: 3px;
@@ -682,14 +685,14 @@ font-weight: 400;
 }
 .footer-darkBlue{
      position: absolute;
-     top: 130.9%;
+     top: 128.9%;
      width: 100%;
      background-color: #052c49;
      height: 75px;
 }
 #blue-footer-div-2{
     position: absolute;
-     top: 125.9%;
+     top: 115%;
      width: 100%;
      height: 130px;
      background-color: #0076ba;
@@ -774,4 +777,23 @@ font-weight: 400;
     left: 60%;
     width: 12%;
     height: 5%; 
+}
+.share-div{
+    position: absolute;
+    top: 104%;
+    left: 3.2%;
+}
+.button-div-2 .apply-now-2{
+    background-color: #0076ba;
+}
+.apply-now-2{
+    position: absolute;
+    top: 18.8%;
+    left: 675%;
+    width: 160%;
+    height: 95%;    
+}
+@media screen and (min-width: 768px) {
+    
+
 }
